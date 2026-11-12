@@ -1,0 +1,70 @@
+{
+  "intro": {
+    "title": "康复医学关注什么？",
+    "body": "<p>康复关注疾病、受伤或身体功能变化对生活造成的影响。通过评估和有针对性的干预，帮助人们尽可能改善或维持活动、沟通与日常生活能力。</p><p>例如，骨折后重新练习行走，或中风后练习穿衣与交流。每个人的目标和康复方案都需要根据自身情况确定。</p><a href=\"https://www.who.int/news-room/fact-sheets/detail/rehabilitation\" target=\"_blank\" rel=\"noopener noreferrer\">阅读世界卫生组织介绍 ↗</a>"
+  },
+  "history": {
+    "title": "从早期实践到现代康复",
+    "body": "<p>很早以前，人们就尝试通过运动等方式帮助恢复身体功能。到了近代，运动治疗、物理治疗和职业康复等逐步发展；两次世界大战带来的康复需求，也推动了现代康复医学的发展。</p><p>康复是在不同时代的医学实践中逐渐形成的。</p><a href=\"https://journalofethics.ama-assn.org/article/history-physical-medicine-and-rehabilitation-and-its-ethical-dimensions/2015-06\" target=\"_blank\" rel=\"noopener noreferrer\">阅读康复医学历史文章 ↗</a>"
+  },
+  "china": {
+    "title": "现代康复与中国传统医学",
+    "body": "<p>中国传统医学中早有导引、推拿等与康复相关的实践。20 世纪 80 年代，中国现代康复医学在学习国际经验的同时，也在既有理疗、运动医学和传统康复等基础上发展。</p><p>临床可根据具体情况综合运用不同方法；是否适用以及效果如何，需要结合个人状况与相关证据，由专业人员判断。</p><a href=\"https://cspmr.cma.org.cn/cn/page.asp?pageid=4.html\" target=\"_blank\" rel=\"noopener noreferrer\">阅读中华医学会分会会史 ↗</a>"
+  },
+  "clinical": {
+    "title": "医院里的康复：从评估到生活",
+    "body": "<p>康复通常从了解病情、身体功能和个人目标开始，再根据需要安排运动、日常生活能力或言语等方面的训练。康复医师、治疗师等专业人员可能共同参与。</p><p>训练内容与进度因人而异，目标是尽可能改善或维持功能。</p><a href=\"https://www.who.int/news-room/questions-and-answers/item/rehabilitation\" target=\"_blank\" rel=\"noopener noreferrer\">了解康复服务与专业人员 ↗</a>"
+  },
+  "daily": {
+    "title": "康复和日常生活有什么关系？",
+    "body": "<p>长时间坐着、低头或站立后，有人会出现颈肩、腰背等不适。原因并不相同，康复专业人员可以在评估后，结合具体情况提供运动、活动方式调整等建议。</p><p>症状持续、加重或影响生活时，请及时咨询医生或康复专业人员。</p><a href=\"https://www.who.int/news-room/fact-sheets/detail/rehabilitation\" target=\"_blank\" rel=\"noopener noreferrer\">了解康复如何帮助日常生活 ↗</a><div class=\"knowledge-related\"><button class=\"related-reading\" data-open=\"fitness\">← 返回康复与健身关系笔记</button></div>"
+  },
+  "fitness": {
+    "title": "康复与健身，如何相辅相成？",
+    "body": "<p>康复会关注健康问题对活动和生活造成的影响，目标包括改善或维持功能、减少生活中的困难。健身常常关注力量、耐力等身体能力，以及整体健康。两者有不同的侧重点，也有共同关心的事：让人更好地活动。</p><p>例如，膝部问题让一个人上下楼变得困难，康复会围绕具体限制进行评估和干预；合适的力量与体能训练，也可能成为整个过程中需要考虑的部分。共同的目标可以很具体：重新顺利地上下楼，或回到喜欢的运动。</p><p>康复和健身可以在同一过程中相互配合。采用哪些训练、从什么水平开始、何时调整，都需要考虑身体情况和个人目标；有伤病或活动受限时，应由医生或康复专业人员协助制定。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.who.int/news-room/fact-sheets/detail/rehabilitation\" target=\"_blank\" rel=\"noopener noreferrer\">世界卫生组织：康复 ↗</a><a href=\"https://www.who.int/news-room/fact-sheets/detail/physical-activity\" target=\"_blank\" rel=\"noopener noreferrer\">世界卫生组织：身体活动 ↗</a></div><div class=\"knowledge-related\"><span>继续了解</span><button class=\"related-reading\" data-open=\"movement-capacity\">活动度、力量与控制 <b>↗</b></button><button class=\"related-reading\" data-open=\"movement-progression\">如何认识训练进阶？ <b>↗</b></button><button class=\"related-reading\" data-open=\"daily\">康复与日常生活 <b>↗</b></button></div>"
+  },
+  "movement-capacity": {
+    "title": "活动度、力量和控制，怎么联系起来？",
+    "body": "<p>理解运动时，可以从几个角度观察：身体能在多大范围内活动，肌肉能产生怎样的力量，以及完成动作时是否协调、稳定。它们共同影响我们怎样完成日常活动。</p><p>不同训练的侧重点也不同。柔韧性活动关注活动范围；抗阻训练通过肌肉对抗阻力发展力量；平衡练习关注身体稳定。一个人的运动安排可以包含不同类型，而不是只重复同一种练习。</p><p>把这些概念放回生活更容易理解：拿高处物品涉及抬手活动，搬东西涉及力量，走路和转身也需要身体协调。若某个动作困难，需要了解具体原因，不能仅凭一个动作就认定某块肌肉弱或某个关节有问题。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.nhlbi.nih.gov/health/heart/physical-activity/types\" target=\"_blank\" rel=\"noopener noreferrer\">美国国立心肺血液研究所：身体活动的类型 ↗</a><a href=\"https://www.who.int/news-room/fact-sheets/detail/rehabilitation\" target=\"_blank\" rel=\"noopener noreferrer\">世界卫生组织：康复 ↗</a></div><div class=\"knowledge-related\"><button class=\"related-reading\" data-open=\"fitness\">← 返回康复与健身关系笔记</button></div>"
+  },
+  "movement-progression": {
+    "title": "从能动到练得好，如何认识进阶？",
+    "body": "<p>开始运动时，起点应与当前体能和健康状况相匹配。对长期缺乏活动的人来说，可以从少量、较容易完成的活动开始，之后逐渐增加，而不是马上达到别人的训练量。</p><p>运动量不只是重量。持续多久、每周几次、动作难度和休息安排，都会改变训练要求。可以记录自己做了什么、完成情况以及活动后的身体感受，方便回顾，也方便与专业人员沟通。</p><p>有伤病、慢性疾病或明显活动限制时，需要结合个人情况调整。恢复运动并没有适用于所有人的统一日程；如果疼痛、肿胀加重或功能下降，应停止自行加量并寻求专业评估。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.niddk.nih.gov/health-information/weight-management/tips-get-active/tips-starting-physical-activity\" target=\"_blank\" rel=\"noopener noreferrer\">美国 NIDDK：开始身体活动的建议 ↗</a><a href=\"https://content.choose.physio/your-wellbeing/return-exercise\" target=\"_blank\" rel=\"noopener noreferrer\">澳大利亚物理治疗协会：恢复运动 ↗</a></div><div class=\"knowledge-related\"><button class=\"related-reading\" data-open=\"fitness\">← 返回康复与健身关系笔记</button></div>"
+  },
+  "movement-older": {
+    "title": "中老年人，为什么还要关注力量和平衡？",
+    "body": "<p>散步等有氧活动很有价值，肌肉力量和平衡能力也值得关注。力量与站起、搬拿物品等日常任务有关；平衡则关系到站立、行走和转身时的稳定。</p><p>美国国家老龄研究所的运动科普强调，有氧、肌肉强化和平衡活动可以相互补充。不同类型的活动分别关注不同身体能力，帮助人们在生活中保持活动能力。</p><p>具体选择应考虑个人基础、慢性疾病、关节情况和跌倒风险。已经出现走路不稳、频繁跌倒或活动受限时，可以先向医生或康复专业人员了解适合自己的活动方式。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.nia.nih.gov/health/exercise-and-physical-activity/four-types-exercise-and-physical-activity\" target=\"_blank\" rel=\"noopener noreferrer\">美国国家老龄研究所：运动与身体活动 ↗</a><a href=\"https://www.who.int/news-room/fact-sheets/detail/physical-activity\" target=\"_blank\" rel=\"noopener noreferrer\">世界卫生组织：身体活动 ↗</a></div>"
+  },
+  "movement-workday": {
+    "title": "久坐之后，怎样把活动带回工作日？",
+    "body": "<p>身体活动不只发生在健身房。步行通勤、家务、工作间隙的走动，都属于生活中的活动。减少长时间久坐、用一些身体活动替代，是认识健康生活方式的重要部分。</p><p>可以先观察自己的工作日：哪些时间连续坐得最久？什么时候有机会换换姿势或轻松走动？再结合自己的时间与能力安排规律运动，让日常活动和健身相互补充。</p><p>颈肩或腰背不适的原因并不相同，不能一概归为姿势差或力量不足。若不适持续、反复或影响工作生活，应及时评估，再决定是否需要康复干预或调整训练。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.who.int/news-room/fact-sheets/detail/physical-activity\" target=\"_blank\" rel=\"noopener noreferrer\">世界卫生组织：身体活动 ↗</a><a href=\"https://www.who.int/news-room/fact-sheets/detail/rehabilitation\" target=\"_blank\" rel=\"noopener noreferrer\">世界卫生组织：康复 ↗</a></div>"
+  },
+  "movement-return": {
+    "title": "伤后想回到运动，除了不疼还看什么？",
+    "body": "<p>疼痛减轻是恢复过程中的一个变化，但是否适合回到原来的训练，还需要结合活动范围、力量、平衡等情况，以及具体运动的要求来判断。</p><p>专业人员会根据伤病情况和恢复进度评估、调整练习。你可以提前想清楚：想回到什么活动？是散步、骑车、跑步，还是力量训练？不同目标，需要面对的动作与负荷并不相同。</p><p>重新开始时，可与专业人员讨论哪些活动需要修改、如何逐步恢复，以及怎样观察身体反应。疼痛或肿胀加重时，及时沟通调整；不把他人的恢复时间表直接套在自己身上。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://content.choose.physio/your-wellbeing/return-exercise\" target=\"_blank\" rel=\"noopener noreferrer\">澳大利亚物理治疗协会：恢复运动 ↗</a></div>"
+  },
+  "featured-strength": {
+    "title": "生活目标，怎样带进力量训练？",
+    "body": "<figure class=\"dialog-figure\"><img src=\"assets/article-rehab-strength.png\" alt=\"中年人在专业人员陪伴下练习从训练凳上站起的示意场景\"><figcaption>示意配图，用于呈现内容主题。具体动作请参考专业演示。</figcaption></figure><p>一个人想恢复的，往往是很具体的生活：能从椅子上站起来、提着东西上楼，或者重新参加喜欢的运动。康复与力量训练，可以从这些共同目标找到连接点。</p><p>康复会关注健康问题造成的功能和活动限制；力量训练则通过肌肉对抗阻力，发展肌肉力量。根据个人情况，合适的力量训练可以成为康复方案的一部分，也可以帮助人们在日常生活中保持活动能力。</p><p>这种衔接需要考虑当前能完成什么、有哪些限制、希望回到什么活动。专业评估和训练安排围绕这些问题展开，而不是先给所有人同一套动作或重量。</p><p>有伤病、慢性疾病或明显活动限制时，可以与医生或康复专业人员讨论训练选择、负荷调整和身体反应。循序渐进的起点，来自对个人情况的了解。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.who.int/news-room/fact-sheets/detail/rehabilitation\" target=\"_blank\" rel=\"noopener noreferrer\">世界卫生组织：康复 ↗</a><a href=\"https://www.nhlbi.nih.gov/health/heart/physical-activity/types\" target=\"_blank\" rel=\"noopener noreferrer\">美国国立心肺血液研究所：身体活动类型 ↗</a></div>"
+  },
+  "featured-pushup": {
+    "title": "俯卧撑，从适合自己的起点开始",
+    "body": "<figure class=\"dialog-figure\"><img src=\"assets/article-pushup-start.png\" alt=\"中年女性在稳固高支撑面进行俯卧撑变化练习的示意场景\"><figcaption>示意配图，用于呈现内容主题。具体动作请参考专业演示。</figcaption></figure><p>俯卧撑是一种利用自身体重作为阻力的练习。地面版本并不是唯一选择，墙面或稳固的高支撑面，也可以提供不同的练习方式。</p><p>改变支撑方式，会改变动作要求。对初学者来说，重点是找到自己能平稳控制的版本；训练经验、上肢承受能力以及身体情况，都值得一起考虑。</p><p>认识动作时，可以关注身体是否保持稳定、动作是否平稳可控、呼吸是否自然。用力过程不必追求快，身体也不需要为了完成次数而明显塌腰或耸起。具体动作细节可以参考专业机构的演示。</p><p>如果已有肩、腕或其他部位的不适，适合哪种练习需要个别判断。出现疼痛或不适加重时，不要继续强行完成，应调整或停止练习并咨询专业人员。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/modified-pushup/vid-20084674\" target=\"_blank\" rel=\"noopener noreferrer\">梅奥诊所：改良俯卧撑示范 ↗</a><a href=\"https://www.sanfordhealth.org/-/media/org/files/patient-education/resistance-training-guide.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Sanford Health：抗阻训练教育资料 ↗</a></div>"
+  },
+  "featured-core": {
+    "title": "鸟狗式：躯干与四肢的配合",
+    "body": "<figure class=\"dialog-figure\"><img src=\"assets/article-core-daily.png\" alt=\"中年男性在训练垫上进行鸟狗式协调练习的示意场景\"><figcaption>示意配图，用于呈现内容主题。具体动作请参考专业演示。</figcaption></figure><p>当我们转身拿东西、提着物品行走或参与运动时，躯干与四肢需要相互配合。核心训练关注的内容，包括力量、耐力和动作中的稳定控制。</p><p>鸟狗式是一类常见的核心稳定练习：在四点支撑的基础上，让对侧手臂和腿活动，同时尝试保持躯干稳定。它提供了一个理解“身体某些部位在动，另一些部位保持控制”的例子。</p><p>练习的意义来自目标和完成质量。是否需要降低难度、减少活动范围，或选择其他动作，可以根据个人能力和专业评估调整；练习并非越复杂越有价值。</p><p>在康复与健身的结合中，可以把问题问得更具体：我想改善哪种日常活动？当前困难是什么？选择的练习与这个目标有什么关系？有持续不适或明确伤病时，应咨询专业人员，而不是把某个动作当作通用治疗。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.nasm.org/resource-center/exercise-library/bird-dog\" target=\"_blank\" rel=\"noopener noreferrer\">美国国家运动医学学会：鸟狗式 ↗</a><a href=\"https://www.who.int/news-room/fact-sheets/detail/rehabilitation\" target=\"_blank\" rel=\"noopener noreferrer\">世界卫生组织：康复 ↗</a></div>"
+  },
+  "tool-iastm": {
+    "title": "筋膜刀：先理解用途，再谈使用",
+    "body": "<p>“筋膜刀”通常指器械辅助软组织松动中使用的工具，英文常称 IASTM。专业人员利用特定形状、光滑边缘的器械进行软组织处理，它与主动抗阻训练承担的角色不同。</p><p>相关研究在一些人群中观察到疼痛、活动范围等方面的改善，但研究对象、操作方法和结果并不完全一致。某项研究的效果不能直接推广到所有身体问题，也不能据此断定“筋膜粘连已被刮开”。</p><p>在康复与健身的衔接中，是否使用这种辅助方法，应结合评估和个人目标讨论；长期功能与训练能力仍需要结合活动、运动训练等整体安排。不要把刮得更痛、皮肤更红或出现瘀青当作效果更好的证明。</p><p>使用前需要考虑皮肤状况、伤病、用药和出血风险等因素。皮肤破损、感染或其他特殊情况需要先由专业人员判断。这里提供工具科普，不提供自行刮压的操作方案。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.mdpi.com/2227-9032/13/6/642\" target=\"_blank\" rel=\"noopener noreferrer\">2025 年 IASTM 注意事项与禁忌证专家共识研究 ↗</a><a href=\"https://link.springer.com/article/10.1186/s12891-025-08492-4\" target=\"_blank\" rel=\"noopener noreferrer\">IASTM 疼痛与功能效果的系统综述 ↗</a><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC6670063/\" target=\"_blank\" rel=\"noopener noreferrer\">IASTM 临床实践与安全问题讨论 ↗</a></div>"
+  },
+  "tool-massage-gun": {
+    "title": "筋膜枪：放松的作用与边界",
+    "body": "<p>筋膜枪通过快速、重复的敲击向软组织施加机械刺激。一些人把它用于活动前的准备或活动后的放松，但它不会自动替代运动、康复评估或个体化训练。</p><p>研究结果需要看具体条件。例如，一项针对 16 名健康男性的小样本研究，在处理小腿肌肉后观察到踝部活动范围的短期增加，但没有观察到最大肌力改善。这样的结果不能解释为“用筋膜枪就能增肌”，也不能直接推广为伤病治疗效果。</p><p>使用范围应参考设备说明和专业建议，避免直接冲击骨头、关节及敏感区域，不要因为酸痛就持续加压。若正在受伤、存在不明原因的肿胀或持续不适，应先了解原因，再讨论是否适合使用。</p><p>把它放回整体训练中更容易理解：它可能是一种辅助放松选择，而力量、耐力和动作能力的培养，仍要依靠适合自身情况的活动与训练。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33239942/\" target=\"_blank\" rel=\"noopener noreferrer\">敲击式按摩对活动范围和肌力的短期实验研究 ↗</a><a href=\"https://www.uclahealth.org/news/article/considering-a-massage-gun-heres-what-you-need-to-know-about-percussive-therapy\" target=\"_blank\" rel=\"noopener noreferrer\">UCLA Health：认识筋膜枪与使用范围 ↗</a></div>"
+  },
+  "tool-resistance-band": {
+    "title": "弹力带：把阻力变成训练",
+    "body": "<p>弹力带通过拉伸时产生的阻力，让肌肉在动作中对抗外力。它属于抗阻训练工具，可以用于不同身体部位的力量练习，也常出现在居家运动和康复训练安排中。</p><p>合适的阻力应与当前能力和训练目标匹配。先从能够平稳控制的阻力开始，再结合完成情况逐步调整。不同产品的颜色与阻力标注可能不同，选择时应查看具体产品说明，不能只凭颜色判断强度。</p><p>每次使用前检查是否有裂口、变薄或老化，确认固定方式可靠。不要让拉伸后的弹力带朝自己或他人的脸部突然回弹；对乳胶敏感的人，还需要关注材质。</p><p>康复和健身都可以使用弹力带，但“用了同一种器材”不等于“适合做同一套动作”。有伤病、慢性疾病或活动限制时，练习选择、阻力和训练量应结合个人情况，由专业人员提供建议。</p><div class=\"source-list\"><span>参考资料</span><a href=\"https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/\" target=\"_blank\" rel=\"noopener noreferrer\">NHS：力量与柔韧性训练 ↗</a><a href=\"https://www.torbayandsouthdevon.nhs.uk/uploads/25303.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">NHS：弹力带使用与检查指南 ↗</a><a href=\"https://patientinfolibrary.royalmarsden.nhs.uk/exercise-home/strength-training-using-therabands\" target=\"_blank\" rel=\"noopener noreferrer\">Royal Marsden：弹力带力量训练资料 ↗</a></div>"
+  }
+}

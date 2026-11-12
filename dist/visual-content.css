@@ -1,0 +1,73 @@
+/* A personal introduction first, followed by concise image-led topic cards. */
+.hero .personal-title{font-size:clamp(45px,4.8vw,72px);line-height:1.18;letter-spacing:-.045em;margin-block:23px 16px}
+.hero .personal-title em{display:inline-block;font-size:1.3em;line-height:1.27;color:#d8ccb1}
+.hero .hero-role{font-size:clamp(19px,1.8vw,26px);line-height:1.5;font-weight:600;color:var(--paper)}
+.hero .hero-description{font-size:14px;line-height:2;margin-top:17px}
+.hero .hero-actions{margin-top:28px}
+.start-card{padding:0;overflow:hidden}
+.start-image,.combined-image{position:relative;width:100%;overflow:hidden;flex:none;background:#3a4c3f}
+.start-image{aspect-ratio:16/10}
+.combined-image{aspect-ratio:16/8.5}
+.start-image img,.combined-image img{width:100%;height:100%;object-fit:cover;filter:saturate(.62) brightness(.87) contrast(.96);transition:transform .5s}
+.start-card:hover img,.combined-card:hover img{transform:scale(1.035)}
+.image-label{position:absolute;right:9px;bottom:8px;background:#293c33dc;color:#e4e9da;font-size:8px;line-height:1.8;padding:2px 6px;pointer-events:none}
+.start-copy{padding:20px 20px 17px;width:100%;display:flex;flex-direction:column;flex:1}
+.start-copy .index{margin-bottom:13px}
+.start-card h3{font-size:18px;line-height:1.55}
+.start-copy p{margin-top:11px;font-size:12px;line-height:1.85;min-height:3.7em}
+.start-copy .card-bottom{margin-top:18px;padding-top:13px}
+.combined-card{padding:0;overflow:hidden}
+.combined-copy{padding:20px 22px;display:flex;flex-direction:column;flex:1;width:100%}
+.combined-card h3{font-size:20px;line-height:1.65;margin-block:13px 20px;min-height:3.3em;text-wrap:balance}
+.combined-card h3 .term{display:inline-block;white-space:nowrap}
+.combined-copy .combined-read{padding-top:13px}
+.about-image{margin:25px 0 0;max-width:420px}
+.about-image img{width:100%;aspect-ratio:16/9;object-fit:cover;filter:saturate(.58) brightness(.85);border:1px solid var(--line)}
+.about-image figcaption{font-size:8px;line-height:1.8;color:var(--muted);margin-top:7px}
+.personal-story{margin-top:23px;border-block:1px solid var(--line);padding-block:13px}
+.personal-story summary{display:flex;justify-content:space-between;align-items:center;cursor:pointer;font-size:12px;list-style:none;gap:20px;min-height:29px;color:#ded3b8}
+.personal-story summary::-webkit-details-marker{display:none}
+.personal-story summary:focus-visible{outline:3px solid var(--accent);outline-offset:5px}
+.personal-story summary span{font-size:18px;transition:transform .2s}
+.personal-story[open] summary span{transform:rotate(45deg)}
+.personal-story p{font-size:13px;line-height:2.1;color:var(--muted);margin-top:16px}
+.anchor-alias{display:block;height:0;scroll-margin-top:100px}
+.about-quote{font-size:21px;line-height:1.9;color:var(--accent);margin-top:28px;max-width:390px}
+.knowledge-related{margin-top:25px;padding-top:18px;border-top:1px solid var(--line)}
+.knowledge-related>span{display:block;font-size:10px;color:var(--muted);margin-bottom:10px}
+.related-reading{display:flex;align-items:center;justify-content:space-between;gap:20px;width:100%;text-align:left;font-size:12px;padding:12px 0;background:none;color:#e3d7bc;border-bottom:1px solid var(--line)}
+.related-reading:hover{color:var(--paper)}
+.related-reading b{font-weight:400}
+@media(max-width:1100px){.start-card{padding:0}.start-card h3{font-size:20px}}
+@media(max-width:760px){
+ .hero .personal-title{font-size:clamp(38px,9.7vw,57px);line-height:1.2;margin-block:20px 15px}
+ .hero .personal-title em{font-size:1.32em}
+ .hero .hero-role{font-size:19px;letter-spacing:.01em}
+ .hero .hero-description{font-size:12px;line-height:1.95;margin-top:14px;max-width:340px}
+ .hero .hero-description br{display:none}
+ .hero .hero-actions{margin-top:22px}
+ .start-card{padding:0}
+ .start-image{aspect-ratio:4/3}
+ .start-copy{padding:15px 13px 13px}
+ .start-copy .index{font-size:8px;margin-bottom:9px}
+ .start-card h3{font-size:16px;min-height:3.1em;line-height:1.55;text-wrap:balance}
+ .start-copy p{font-size:11px;line-height:1.8;min-height:3.6em;margin-top:9px}
+ .start-copy .card-bottom{margin-top:13px;padding-top:10px;font-size:9px}
+ .image-label{font-size:7px;right:6px;bottom:6px;padding:1px 4px}
+ .combined-card{padding:0}
+ .combined-image{aspect-ratio:4/3}
+ .combined-copy{padding:15px 13px}
+ .combined-label{font-size:8px}
+ .combined-card h3{font-size:16px;line-height:1.6;min-height:3.2em;margin-block:11px 17px}
+ .combined-copy .combined-read{font-size:9px;padding-top:10px}
+ .about-section .name-art{position:static;margin-top:20px;font-size:30px}
+ .about-image{margin-top:24px;max-width:none}
+ .personal-story summary{font-size:12px}
+ .personal-story p{font-size:12px;line-height:2}
+ .combined-grid{grid-template-columns:1fr;gap:18px}
+ .combined-image{aspect-ratio:16/9}
+ .combined-copy{padding:19px 20px}
+ .combined-card h3{font-size:19px;min-height:0;margin-block:12px 18px}
+ .about-quote{font-size:18px;line-height:1.85;margin-top:23px}
+}
+@media(max-width:370px){.hero .personal-title{font-size:38px}.hero .hero-role{font-size:17px}.start-copy{padding-inline:11px}.start-card h3{font-size:15px}.combined-card h3{min-height:0}.combined-image{aspect-ratio:16/9}}
